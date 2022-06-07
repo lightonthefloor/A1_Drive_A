@@ -165,6 +165,8 @@ union Motor_Rx{
 		Rx_Data Received_data;
 }Motor_Rx_u;
 
+Motor_State A1_State;
+
 extern  DMA_HandleTypeDef hdma_usart6_rx;
 
 void USART6_Receive_init(uint8_t *rx1_buf, uint8_t *rx2_buf, uint16_t dma_buf_num) {

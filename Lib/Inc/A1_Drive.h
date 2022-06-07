@@ -32,14 +32,16 @@ typedef struct{
 		float Pos;
 }Rx_Data;
 
-struct Motor_State{
+typedef struct{
 		uint8_t Mode;
 		uint8_t Temp;
 		float Torque;
 		float Omega;
 		uint16_t Acc;
 		float Position;
-}A1_State;
+}Motor_State;
+
+extern Motor_State A1_State;
 
 extern void Mode_Control(int ID,int Mode);
 extern void Usart6_TX_DMA_Init(void);
