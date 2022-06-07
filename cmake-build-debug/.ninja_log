@@ -1,0 +1,27 @@
+# ninja log v5
+192	279	1654590834250328392	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	2a86afb66fe13441
+2375	2648	1654594065461136986	A1_Drive_A.elf	65d4f3fecd652dd4
+2	190	1654590834159767017	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	6866f1ec40fa39fa
+2	192	1654590834162257458	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	80ed07c1c0afe6d1
+318	411	1654590834381550654	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	9aa3bf8b84c635e4
+191	333	1654590834303394276	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	e14fcda1d23cb53a
+441	540	1654590834510224558	CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj	82db4c167b9fec5e
+525	625	1654590834595683677	CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj	833d4251eaa6a66
+1	207	1654590834175249160	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	3e453591d12cdb62
+207	318	1654590834288374755	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	f838c9be7e5851aa
+191	331	1654590834301936787	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	ae1db7c59f47563c
+291	440	1654590834410782786	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	1099f43feb9ecf1a
+1	200	1654590834169428200	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	3ab1cf0328f645f
+308	406	1654590834375613237	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	1da5d4d526b16de8
+1	191	1654590834161571505	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	4207f1f6f9ec3db9
+279	432	1654590834402441885	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	8e5d2c109c2f48a0
+432	533	1654590834502425029	CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_hal_msp.c.obj	b15b6bd5768c13e2
+0	192	1654590834161631713	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	b891b3d41d027fb8
+192	291	1654590834260584863	CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj	ea9d09d325d907f
+332	628	1654590834598233576	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	cf3efc00a6034a66
+469	587	1654590834556739362	CMakeFiles/A1_Drive_A.elf.dir/Src/syscalls.c.obj	9cfd023b07eede37
+533	578	1654590834549096498	CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj	505343f8c790d0b4
+524	616	1654590834587620191	CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj	aadfc76fd7ede8fb
+406	525	1654590834493060593	CMakeFiles/A1_Drive_A.elf.dir/Src/gpio.c.obj	cebc405083fc9913
+200	308	1654590834277801953	CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	df908f1087ac45bb
+2	2388	1654596153312535104	CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj	455ecbacffa9efc2

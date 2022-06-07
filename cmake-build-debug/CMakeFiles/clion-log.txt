@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/trisoil/Desktop/Robomaster_Codes/A1_Drive_A -B /Users/trisoil/Desktop/Robomaster_Codes/A1_Drive_A/cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/trisoil/Desktop/Robomaster_Codes/A1_Drive_A/cmake-build-debug
