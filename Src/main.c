@@ -104,7 +104,7 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 //		A1_Motor_Position_Control(0,3.14f);
-		A1_Motor_Speed_Control(0,0.5f);
+//	A1_Motor_Speed_Control(0,3.0f);
 //		HAL_Delay(10);
 //		A1_Motor_Speed_Control(1,2);
 //		A1_Motor_Multiple_Control(0,10,0.07f,0.5f,6.0f);

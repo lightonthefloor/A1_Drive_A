@@ -6,7 +6,7 @@
 #include "dma.h"
 #include "usart.h"
 
-#define PI 3.1415926535
+#define PI 3.1415926535f
 
 extern DMA_HandleTypeDef hdma_usart6_tx;
 
@@ -156,7 +156,7 @@ void A1_Motor_Position_Control(int ID,float Position)
 // Message Receive part
 
 // 设置数据接收长度
-#define SBUS_RX_BUF_NUM 78u
+#define SBUS_RX_BUF_NUM 99u
 
 uint8_t A1_Motor_Rx_Data[2][SBUS_RX_BUF_NUM];
 
@@ -229,7 +229,7 @@ void Received_Data_Dealer(const uint8_t *sbus_buf)
 	A1_State.Torque = ((float)Motor_Rx_u.Received_data.T)/256.0f;
 	A1_State.Omega = ((float)Motor_Rx_u.Received_data.W)/128.0f;
 	A1_State.Acc = Motor_Rx_u.Received_data.Acc;
-	A1_State.Position = Motor_Rx_u.Received_data.Pos;
+	A1_State.Position = ((float)Motor_Rx_u.Received_data.Pos*2.0f*PI)/(16384.0f);
 }
 
 void USART6_IRQHandler(void) {
@@ -265,7 +265,7 @@ void USART6_IRQHandler(void) {
 			//使能DMA
 			__HAL_DMA_ENABLE(&hdma_usart6_rx);
 
-			if (this_time_rx_len == SBUS_RX_BUF_NUM){
+			if (this_time_rx_len == 78u){
 				Received_Data_Dealer(A1_Motor_Rx_Data[0]);
 			}
 		} else {
@@ -290,7 +290,7 @@ void USART6_IRQHandler(void) {
 			//使能DMA
 			__HAL_DMA_ENABLE(&hdma_usart6_rx);
 
-			if (this_time_rx_len == SBUS_RX_BUF_NUM){
+			if (this_time_rx_len == 78u){
 				Received_Data_Dealer(A1_Motor_Rx_Data[1]);
 			}
 		}

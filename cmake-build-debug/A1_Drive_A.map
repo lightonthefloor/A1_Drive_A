@@ -1,15 +1,9 @@
 Archive member included to satisfy reference by file (symbol)
 
-/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
-                              CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj (__aeabi_dmul)
 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
                               CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj (__aeabi_fmul)
-/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
-                              CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj (__aeabi_f2d)
-/opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
-                              CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj (__aeabi_d2uiz)
 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
-                              CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj (__aeabi_ui2f)
+                              CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj (__aeabi_fadd)
 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
                               CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj (__aeabi_f2uiz)
 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_aeabi_uldivmod.o)
@@ -622,9 +616,9 @@ Discarded input sections
  .data          0x0000000000000000        0x0 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
  .text.A1_Motor_Multiple_Control
-                0x0000000000000000       0x90 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x0000000000000000       0x74 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
  .text.A1_Motor_Position_Control
-                0x0000000000000000       0x5c CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x0000000000000000       0x48 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
@@ -692,26 +686,8 @@ Discarded input sections
  .text          0x0000000000000000       0x14 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
  .data          0x0000000000000000        0x0 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
- .text          0x0000000000000000      0x254 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
- .data          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
- .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
- .debug_frame   0x0000000000000000       0x30 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
- .ARM.attributes
-                0x0000000000000000       0x1e /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldf3.o)
  .data          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
  .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
- .text          0x0000000000000000      0x378 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
- .data          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
- .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
- .debug_frame   0x0000000000000000       0xac /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
- .ARM.attributes
-                0x0000000000000000       0x1e /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubdf3.o)
- .text          0x0000000000000000       0x40 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
- .data          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
- .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
- .debug_frame   0x0000000000000000       0x24 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
- .ARM.attributes
-                0x0000000000000000       0x1e /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunsdfsi.o)
  .data          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
  .bss           0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
  .data          0x0000000000000000        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
@@ -865,7 +841,7 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
                 0x0000000008000000                g_pfnVectors
                 0x00000000080001ac                . = ALIGN (0x4)
 
-.text           0x00000000080001ac     0x1ff0
+.text           0x00000000080001ac     0x2010
                 0x00000000080001ac                . = ALIGN (0x4)
  *(.text)
  .text          0x00000000080001ac       0x40 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
@@ -993,262 +969,262 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
                 0x0000000008001a90       0x14 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
                 0x0000000008001a90                USART6_Rx_Init
  .text.Received_Data_Dealer
-                0x0000000008001aa4       0x70 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x0000000008001aa4       0x8c CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
                 0x0000000008001aa4                Received_Data_Dealer
  .text.USART6_IRQHandler
-                0x0000000008001b14       0xdc CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
-                0x0000000008001b14                USART6_IRQHandler
+                0x0000000008001b30       0xdc CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x0000000008001b30                USART6_IRQHandler
  .text.MX_DMA_Init
-                0x0000000008001bf0       0x44 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
-                0x0000000008001bf0                MX_DMA_Init
+                0x0000000008001c0c       0x44 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
+                0x0000000008001c0c                MX_DMA_Init
  .text.MX_GPIO_Init
-                0x0000000008001c34       0x7c CMakeFiles/A1_Drive_A.elf.dir/Src/gpio.c.obj
-                0x0000000008001c34                MX_GPIO_Init
+                0x0000000008001c50       0x7c CMakeFiles/A1_Drive_A.elf.dir/Src/gpio.c.obj
+                0x0000000008001c50                MX_GPIO_Init
  .text.Error_Handler
-                0x0000000008001cb0        0x4 CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
-                0x0000000008001cb0                Error_Handler
+                0x0000000008001ccc        0x4 CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
+                0x0000000008001ccc                Error_Handler
  .text.SystemClock_Config
-                0x0000000008001cb4       0xb4 CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
-                0x0000000008001cb4                SystemClock_Config
- .text.main     0x0000000008001d68       0x4c CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
-                0x0000000008001d68                main
+                0x0000000008001cd0       0xb4 CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
+                0x0000000008001cd0                SystemClock_Config
+ .text.main     0x0000000008001d84       0x50 CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
+                0x0000000008001d84                main
  .text.HAL_MspInit
-                0x0000000008001db4       0x38 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_hal_msp.c.obj
-                0x0000000008001db4                HAL_MspInit
+                0x0000000008001dd4       0x38 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+                0x0000000008001dd4                HAL_MspInit
  .text.NMI_Handler
-                0x0000000008001dec        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001dec                NMI_Handler
+                0x0000000008001e0c        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e0c                NMI_Handler
  .text.HardFault_Handler
-                0x0000000008001dee        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001dee                HardFault_Handler
+                0x0000000008001e0e        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e0e                HardFault_Handler
  .text.MemManage_Handler
-                0x0000000008001df0        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001df0                MemManage_Handler
+                0x0000000008001e10        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e10                MemManage_Handler
  .text.BusFault_Handler
-                0x0000000008001df2        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001df2                BusFault_Handler
+                0x0000000008001e12        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e12                BusFault_Handler
  .text.UsageFault_Handler
-                0x0000000008001df4        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001df4                UsageFault_Handler
+                0x0000000008001e14        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e14                UsageFault_Handler
  .text.SVC_Handler
-                0x0000000008001df6        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001df6                SVC_Handler
+                0x0000000008001e16        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e16                SVC_Handler
  .text.DebugMon_Handler
-                0x0000000008001df8        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001df8                DebugMon_Handler
+                0x0000000008001e18        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e18                DebugMon_Handler
  .text.PendSV_Handler
-                0x0000000008001dfa        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001dfa                PendSV_Handler
+                0x0000000008001e1a        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e1a                PendSV_Handler
  .text.SysTick_Handler
-                0x0000000008001dfc        0x8 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001dfc                SysTick_Handler
+                0x0000000008001e1c        0x8 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e1c                SysTick_Handler
  .text.DMA2_Stream2_IRQHandler
-                0x0000000008001e04       0x10 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001e04                DMA2_Stream2_IRQHandler
+                0x0000000008001e24       0x10 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e24                DMA2_Stream2_IRQHandler
  .text.DMA2_Stream7_IRQHandler
-                0x0000000008001e14       0x10 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
-                0x0000000008001e14                DMA2_Stream7_IRQHandler
+                0x0000000008001e34       0x10 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008001e34                DMA2_Stream7_IRQHandler
  .text.SystemInit
-                0x0000000008001e24        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
-                0x0000000008001e24                SystemInit
- *fill*         0x0000000008001e26        0x2 
+                0x0000000008001e44        0x2 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
+                0x0000000008001e44                SystemInit
+ *fill*         0x0000000008001e46        0x2 
  .text.MX_USART6_UART_Init
-                0x0000000008001e28       0x38 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
-                0x0000000008001e28                MX_USART6_UART_Init
+                0x0000000008001e48       0x38 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
+                0x0000000008001e48                MX_USART6_UART_Init
  .text.HAL_UART_MspInit
-                0x0000000008001e60      0x104 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
-                0x0000000008001e60                HAL_UART_MspInit
+                0x0000000008001e80      0x104 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
+                0x0000000008001e80                HAL_UART_MspInit
  .text.Reset_Handler
-                0x0000000008001f64       0x50 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
-                0x0000000008001f64                Reset_Handler
+                0x0000000008001f84       0x50 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
+                0x0000000008001f84                Reset_Handler
  .text.Default_Handler
-                0x0000000008001fb4        0x2 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
-                0x0000000008001fb4                DMA1_Stream3_IRQHandler
-                0x0000000008001fb4                HASH_RNG_IRQHandler
-                0x0000000008001fb4                EXTI2_IRQHandler
-                0x0000000008001fb4                TIM8_CC_IRQHandler
-                0x0000000008001fb4                UART8_IRQHandler
-                0x0000000008001fb4                SPI4_IRQHandler
-                0x0000000008001fb4                TIM1_CC_IRQHandler
-                0x0000000008001fb4                DMA2_Stream5_IRQHandler
-                0x0000000008001fb4                DMA1_Stream5_IRQHandler
-                0x0000000008001fb4                PVD_IRQHandler
-                0x0000000008001fb4                SDIO_IRQHandler
-                0x0000000008001fb4                TAMP_STAMP_IRQHandler
-                0x0000000008001fb4                CAN2_RX1_IRQHandler
-                0x0000000008001fb4                EXTI3_IRQHandler
-                0x0000000008001fb4                TIM8_TRG_COM_TIM14_IRQHandler
-                0x0000000008001fb4                TIM1_UP_TIM10_IRQHandler
-                0x0000000008001fb4                TIM8_UP_TIM13_IRQHandler
-                0x0000000008001fb4                I2C3_ER_IRQHandler
-                0x0000000008001fb4                EXTI0_IRQHandler
-                0x0000000008001fb4                I2C2_EV_IRQHandler
-                0x0000000008001fb4                DMA1_Stream2_IRQHandler
-                0x0000000008001fb4                CAN1_RX0_IRQHandler
-                0x0000000008001fb4                FPU_IRQHandler
-                0x0000000008001fb4                OTG_HS_WKUP_IRQHandler
-                0x0000000008001fb4                CAN2_SCE_IRQHandler
-                0x0000000008001fb4                SPI1_IRQHandler
-                0x0000000008001fb4                TIM6_DAC_IRQHandler
-                0x0000000008001fb4                TIM1_BRK_TIM9_IRQHandler
-                0x0000000008001fb4                DCMI_IRQHandler
-                0x0000000008001fb4                CAN2_RX0_IRQHandler
-                0x0000000008001fb4                DMA2_Stream3_IRQHandler
-                0x0000000008001fb4                USART3_IRQHandler
-                0x0000000008001fb4                CAN1_RX1_IRQHandler
-                0x0000000008001fb4                UART5_IRQHandler
-                0x0000000008001fb4                DMA2_Stream0_IRQHandler
-                0x0000000008001fb4                TIM4_IRQHandler
-                0x0000000008001fb4                I2C1_EV_IRQHandler
-                0x0000000008001fb4                DMA1_Stream6_IRQHandler
-                0x0000000008001fb4                DMA1_Stream1_IRQHandler
-                0x0000000008001fb4                UART4_IRQHandler
-                0x0000000008001fb4                TIM3_IRQHandler
-                0x0000000008001fb4                RCC_IRQHandler
-                0x0000000008001fb4                TIM8_BRK_TIM12_IRQHandler
-                0x0000000008001fb4                Default_Handler
-                0x0000000008001fb4                EXTI15_10_IRQHandler
-                0x0000000008001fb4                ADC_IRQHandler
-                0x0000000008001fb4                DMA1_Stream7_IRQHandler
-                0x0000000008001fb4                SPI5_IRQHandler
-                0x0000000008001fb4                TIM7_IRQHandler
-                0x0000000008001fb4                CAN2_TX_IRQHandler
-                0x0000000008001fb4                TIM5_IRQHandler
-                0x0000000008001fb4                I2C3_EV_IRQHandler
-                0x0000000008001fb4                EXTI9_5_IRQHandler
-                0x0000000008001fb4                RTC_WKUP_IRQHandler
-                0x0000000008001fb4                ETH_WKUP_IRQHandler
-                0x0000000008001fb4                SPI2_IRQHandler
-                0x0000000008001fb4                OTG_HS_EP1_IN_IRQHandler
-                0x0000000008001fb4                DMA1_Stream0_IRQHandler
-                0x0000000008001fb4                CAN1_TX_IRQHandler
-                0x0000000008001fb4                EXTI4_IRQHandler
-                0x0000000008001fb4                ETH_IRQHandler
-                0x0000000008001fb4                OTG_HS_EP1_OUT_IRQHandler
-                0x0000000008001fb4                WWDG_IRQHandler
-                0x0000000008001fb4                SPI6_IRQHandler
-                0x0000000008001fb4                TIM2_IRQHandler
-                0x0000000008001fb4                OTG_FS_WKUP_IRQHandler
-                0x0000000008001fb4                TIM1_TRG_COM_TIM11_IRQHandler
-                0x0000000008001fb4                OTG_HS_IRQHandler
-                0x0000000008001fb4                DMA2D_IRQHandler
-                0x0000000008001fb4                EXTI1_IRQHandler
-                0x0000000008001fb4                UART7_IRQHandler
-                0x0000000008001fb4                USART2_IRQHandler
-                0x0000000008001fb4                I2C2_ER_IRQHandler
-                0x0000000008001fb4                DMA2_Stream1_IRQHandler
-                0x0000000008001fb4                CAN1_SCE_IRQHandler
-                0x0000000008001fb4                FLASH_IRQHandler
-                0x0000000008001fb4                DMA2_Stream4_IRQHandler
-                0x0000000008001fb4                USART1_IRQHandler
-                0x0000000008001fb4                OTG_FS_IRQHandler
-                0x0000000008001fb4                SPI3_IRQHandler
-                0x0000000008001fb4                DMA1_Stream4_IRQHandler
-                0x0000000008001fb4                I2C1_ER_IRQHandler
-                0x0000000008001fb4                FMC_IRQHandler
-                0x0000000008001fb4                DMA2_Stream6_IRQHandler
-                0x0000000008001fb4                SAI1_IRQHandler
-                0x0000000008001fb4                RTC_Alarm_IRQHandler
- *fill*         0x0000000008001fb6        0x2 
+                0x0000000008001fd4        0x2 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
+                0x0000000008001fd4                DMA1_Stream3_IRQHandler
+                0x0000000008001fd4                HASH_RNG_IRQHandler
+                0x0000000008001fd4                EXTI2_IRQHandler
+                0x0000000008001fd4                TIM8_CC_IRQHandler
+                0x0000000008001fd4                UART8_IRQHandler
+                0x0000000008001fd4                SPI4_IRQHandler
+                0x0000000008001fd4                TIM1_CC_IRQHandler
+                0x0000000008001fd4                DMA2_Stream5_IRQHandler
+                0x0000000008001fd4                DMA1_Stream5_IRQHandler
+                0x0000000008001fd4                PVD_IRQHandler
+                0x0000000008001fd4                SDIO_IRQHandler
+                0x0000000008001fd4                TAMP_STAMP_IRQHandler
+                0x0000000008001fd4                CAN2_RX1_IRQHandler
+                0x0000000008001fd4                EXTI3_IRQHandler
+                0x0000000008001fd4                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0000000008001fd4                TIM1_UP_TIM10_IRQHandler
+                0x0000000008001fd4                TIM8_UP_TIM13_IRQHandler
+                0x0000000008001fd4                I2C3_ER_IRQHandler
+                0x0000000008001fd4                EXTI0_IRQHandler
+                0x0000000008001fd4                I2C2_EV_IRQHandler
+                0x0000000008001fd4                DMA1_Stream2_IRQHandler
+                0x0000000008001fd4                CAN1_RX0_IRQHandler
+                0x0000000008001fd4                FPU_IRQHandler
+                0x0000000008001fd4                OTG_HS_WKUP_IRQHandler
+                0x0000000008001fd4                CAN2_SCE_IRQHandler
+                0x0000000008001fd4                SPI1_IRQHandler
+                0x0000000008001fd4                TIM6_DAC_IRQHandler
+                0x0000000008001fd4                TIM1_BRK_TIM9_IRQHandler
+                0x0000000008001fd4                DCMI_IRQHandler
+                0x0000000008001fd4                CAN2_RX0_IRQHandler
+                0x0000000008001fd4                DMA2_Stream3_IRQHandler
+                0x0000000008001fd4                USART3_IRQHandler
+                0x0000000008001fd4                CAN1_RX1_IRQHandler
+                0x0000000008001fd4                UART5_IRQHandler
+                0x0000000008001fd4                DMA2_Stream0_IRQHandler
+                0x0000000008001fd4                TIM4_IRQHandler
+                0x0000000008001fd4                I2C1_EV_IRQHandler
+                0x0000000008001fd4                DMA1_Stream6_IRQHandler
+                0x0000000008001fd4                DMA1_Stream1_IRQHandler
+                0x0000000008001fd4                UART4_IRQHandler
+                0x0000000008001fd4                TIM3_IRQHandler
+                0x0000000008001fd4                RCC_IRQHandler
+                0x0000000008001fd4                TIM8_BRK_TIM12_IRQHandler
+                0x0000000008001fd4                Default_Handler
+                0x0000000008001fd4                EXTI15_10_IRQHandler
+                0x0000000008001fd4                ADC_IRQHandler
+                0x0000000008001fd4                DMA1_Stream7_IRQHandler
+                0x0000000008001fd4                SPI5_IRQHandler
+                0x0000000008001fd4                TIM7_IRQHandler
+                0x0000000008001fd4                CAN2_TX_IRQHandler
+                0x0000000008001fd4                TIM5_IRQHandler
+                0x0000000008001fd4                I2C3_EV_IRQHandler
+                0x0000000008001fd4                EXTI9_5_IRQHandler
+                0x0000000008001fd4                RTC_WKUP_IRQHandler
+                0x0000000008001fd4                ETH_WKUP_IRQHandler
+                0x0000000008001fd4                SPI2_IRQHandler
+                0x0000000008001fd4                OTG_HS_EP1_IN_IRQHandler
+                0x0000000008001fd4                DMA1_Stream0_IRQHandler
+                0x0000000008001fd4                CAN1_TX_IRQHandler
+                0x0000000008001fd4                EXTI4_IRQHandler
+                0x0000000008001fd4                ETH_IRQHandler
+                0x0000000008001fd4                OTG_HS_EP1_OUT_IRQHandler
+                0x0000000008001fd4                WWDG_IRQHandler
+                0x0000000008001fd4                SPI6_IRQHandler
+                0x0000000008001fd4                TIM2_IRQHandler
+                0x0000000008001fd4                OTG_FS_WKUP_IRQHandler
+                0x0000000008001fd4                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0000000008001fd4                OTG_HS_IRQHandler
+                0x0000000008001fd4                DMA2D_IRQHandler
+                0x0000000008001fd4                EXTI1_IRQHandler
+                0x0000000008001fd4                UART7_IRQHandler
+                0x0000000008001fd4                USART2_IRQHandler
+                0x0000000008001fd4                I2C2_ER_IRQHandler
+                0x0000000008001fd4                DMA2_Stream1_IRQHandler
+                0x0000000008001fd4                CAN1_SCE_IRQHandler
+                0x0000000008001fd4                FLASH_IRQHandler
+                0x0000000008001fd4                DMA2_Stream4_IRQHandler
+                0x0000000008001fd4                USART1_IRQHandler
+                0x0000000008001fd4                OTG_FS_IRQHandler
+                0x0000000008001fd4                SPI3_IRQHandler
+                0x0000000008001fd4                DMA1_Stream4_IRQHandler
+                0x0000000008001fd4                I2C1_ER_IRQHandler
+                0x0000000008001fd4                FMC_IRQHandler
+                0x0000000008001fd4                DMA2_Stream6_IRQHandler
+                0x0000000008001fd4                SAI1_IRQHandler
+                0x0000000008001fd4                RTC_Alarm_IRQHandler
+ *fill*         0x0000000008001fd6        0x2 
  .text.__libc_init_array
-                0x0000000008001fb8       0x48 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
-                0x0000000008001fb8                __libc_init_array
- .text.memset   0x0000000008002000       0xa4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
-                0x0000000008002000                memset
+                0x0000000008001fd8       0x48 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                0x0000000008001fd8                __libc_init_array
+ .text.memset   0x0000000008002020       0xa4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                0x0000000008002020                memset
  .text.startup.register_fini
-                0x00000000080020a4       0x14 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
- .text.atexit   0x00000000080020b8        0xc /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
-                0x00000000080020b8                atexit
+                0x00000000080020c4       0x14 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x00000000080020d8        0xc /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                0x00000000080020d8                atexit
  .text.__libc_fini_array
-                0x00000000080020c4       0x2c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
-                0x00000000080020c4                __libc_fini_array
+                0x00000000080020e4       0x2c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                0x00000000080020e4                __libc_fini_array
  .text.__retarget_lock_acquire_recursive
-                0x00000000080020f0        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
-                0x00000000080020f0                __retarget_lock_acquire_recursive
+                0x0000000008002110        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000008002110                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x00000000080020f4        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
-                0x00000000080020f4                __retarget_lock_release_recursive
+                0x0000000008002114        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x0000000008002114                __retarget_lock_release_recursive
  .text.__register_exitproc
-                0x00000000080020f8       0x8c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
-                0x00000000080020f8                __register_exitproc
+                0x0000000008002118       0x8c /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                0x0000000008002118                __register_exitproc
  *(.glue_7)
- .glue_7        0x0000000008002184        0x0 linker stubs
+ .glue_7        0x00000000080021a4        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0000000008002184        0x0 linker stubs
+ .glue_7t       0x00000000080021a4        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0000000008002184        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x00000000080021a4        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
  *(.init)
- .init          0x0000000008002184        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
-                0x0000000008002184                _init
- .init          0x0000000008002188        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .init          0x00000000080021a4        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x00000000080021a4                _init
+ .init          0x00000000080021a8        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
  *(.fini)
- .fini          0x0000000008002190        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
-                0x0000000008002190                _fini
- .fini          0x0000000008002194        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
-                0x000000000800219c                . = ALIGN (0x4)
-                0x000000000800219c                _etext = .
+ .fini          0x00000000080021b0        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x00000000080021b0                _fini
+ .fini          0x00000000080021b4        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x00000000080021bc                . = ALIGN (0x4)
+                0x00000000080021bc                _etext = .
 
-.vfp11_veneer   0x000000000800219c        0x0
- .vfp11_veneer  0x000000000800219c        0x0 linker stubs
+.vfp11_veneer   0x00000000080021bc        0x0
+ .vfp11_veneer  0x00000000080021bc        0x0 linker stubs
 
-.v4_bx          0x000000000800219c        0x0
- .v4_bx         0x000000000800219c        0x0 linker stubs
+.v4_bx          0x00000000080021bc        0x0
+ .v4_bx         0x00000000080021bc        0x0 linker stubs
 
-.iplt           0x000000000800219c        0x0
- .iplt          0x000000000800219c        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+.iplt           0x00000000080021bc        0x0
+ .iplt          0x00000000080021bc        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.rodata         0x000000000800219c       0x24
-                0x000000000800219c                . = ALIGN (0x4)
+.rodata         0x00000000080021bc       0x24
+                0x00000000080021bc                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.flagBitshiftOffset.0
-                0x000000000800219c        0x8 CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x00000000080021bc        0x8 CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .rodata.AHBPrescTable
-                0x00000000080021a4       0x10 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
-                0x00000000080021a4                AHBPrescTable
+                0x00000000080021c4       0x10 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
+                0x00000000080021c4                AHBPrescTable
  .rodata.APBPrescTable
-                0x00000000080021b4        0x8 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
-                0x00000000080021b4                APBPrescTable
+                0x00000000080021d4        0x8 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
+                0x00000000080021d4                APBPrescTable
  .rodata._global_impure_ptr
-                0x00000000080021bc        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
-                0x00000000080021bc                _global_impure_ptr
-                0x00000000080021c0                . = ALIGN (0x4)
+                0x00000000080021dc        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x00000000080021dc                _global_impure_ptr
+                0x00000000080021e0                . = ALIGN (0x4)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x00000000080021c0        0x8
-                0x00000000080021c0                __exidx_start = .
+.ARM            0x00000000080021e0        0x8
+                0x00000000080021e0                __exidx_start = .
  *(.ARM.exidx*)
- .ARM.exidx     0x00000000080021c0        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
-                0x00000000080021c8                __exidx_end = .
+ .ARM.exidx     0x00000000080021e0        0x8 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_udivmoddi4.o)
+                0x00000000080021e8                __exidx_end = .
 
-.rel.dyn        0x00000000080021c8        0x0
- .rel.iplt      0x00000000080021c8        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+.rel.dyn        0x00000000080021e8        0x0
+ .rel.iplt      0x00000000080021e8        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.preinit_array  0x00000000080021c8        0x0
-                0x00000000080021c8                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x00000000080021e8        0x0
+                0x00000000080021e8                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x00000000080021c8                PROVIDE (__preinit_array_end = .)
+                0x00000000080021e8                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x00000000080021c8        0x8
-                0x00000000080021c8                PROVIDE (__init_array_start = .)
+.init_array     0x00000000080021e8        0x8
+                0x00000000080021e8                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x00000000080021c8        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                0x00000000080021e8        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x00000000080021cc        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
-                0x00000000080021d0                PROVIDE (__init_array_end = .)
+ .init_array    0x00000000080021ec        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x00000000080021f0                PROVIDE (__init_array_end = .)
 
-.fini_array     0x00000000080021d0        0x4
-                0x00000000080021d0                PROVIDE (__fini_array_start = .)
+.fini_array     0x00000000080021f0        0x4
+                0x00000000080021f0                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x00000000080021d0        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
-                0x00000000080021d4                PROVIDE (__fini_array_end = .)
-                0x00000000080021d4                _sidata = LOADADDR (.data)
+ .fini_array    0x00000000080021f0        0x4 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x00000000080021f4                PROVIDE (__fini_array_end = .)
+                0x00000000080021f4                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000      0x43c load address 0x00000000080021d4
+.data           0x0000000020000000      0x43c load address 0x00000000080021f4
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
@@ -1271,12 +1247,12 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
                 0x0000000020000438                __atexit_recursive_mutex
                 0x000000002000043c                . = ALIGN (0x4)
                 0x000000002000043c                _edata = .
-                0x0000000008002610                _siccmram = LOADADDR (.ccmram)
+                0x0000000008002630                _siccmram = LOADADDR (.ccmram)
 
-.igot.plt       0x000000002000043c        0x0 load address 0x0000000008002610
+.igot.plt       0x000000002000043c        0x0 load address 0x0000000008002630
  .igot.plt      0x000000002000043c        0x0 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.ccmram         0x0000000010000000        0x0 load address 0x0000000008002610
+.ccmram         0x0000000010000000        0x0 load address 0x0000000008002630
                 0x0000000010000000                . = ALIGN (0x4)
                 0x0000000010000000                _sccmram = .
  *(.ccmram)
@@ -1285,7 +1261,7 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
                 0x0000000010000000                _eccmram = .
                 0x0000000010000000                . = ALIGN (0x4)
 
-.bss            0x000000002000043c      0x26c
+.bss            0x000000002000043c      0x298
                 0x000000002000043c                _sbss = .
                 0x000000002000043c                __bss_start__ = _sbss
  *(.bss)
@@ -1294,51 +1270,53 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
  .bss.uwTick    0x0000000020000458        0x4 CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
                 0x0000000020000458                uwTick
  .bss.A1_Motor_Rx_Data
-                0x000000002000045c       0x9c CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x000000002000045c       0xc6 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
                 0x000000002000045c                A1_Motor_Rx_Data
- .bss.A1_State  0x00000000200004f8       0x14 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
-                0x00000000200004f8                A1_State
- .bss.CRC_u     0x000000002000050c        0x4 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
-                0x000000002000050c                CRC_u
- .bss.Data_Box  0x0000000020000510       0x66 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
-                0x0000000020000510                Data_Box
- *fill*         0x0000000020000576        0x2 
+ *fill*         0x0000000020000522        0x2 
+ .bss.A1_State  0x0000000020000524       0x14 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x0000000020000524                A1_State
+ .bss.CRC_u     0x0000000020000538        0x4 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x0000000020000538                CRC_u
+ .bss.Data_Box  0x000000002000053c       0x66 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x000000002000053c                Data_Box
+ *fill*         0x00000000200005a2        0x2 
  .bss.Motor_Rx_u
-                0x0000000020000578        0xc CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
-                0x0000000020000578                Motor_Rx_u
+                0x00000000200005a4        0xc CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x00000000200005a4                Motor_Rx_u
  .bss.Motor_Tx_u
-                0x0000000020000584       0x18 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
-                0x0000000020000584                Motor_Tx_u
+                0x00000000200005b0       0x18 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                0x00000000200005b0                Motor_Tx_u
  .bss.this_time_rx_len.0
-                0x000000002000059c        0x2 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
- *fill*         0x000000002000059e        0x2 
+                0x00000000200005c8        0x2 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+ *fill*         0x00000000200005ca        0x2 
  .bss.hdma_usart6_rx
-                0x00000000200005a0       0x60 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
-                0x00000000200005a0                hdma_usart6_rx
+                0x00000000200005cc       0x60 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
+                0x00000000200005cc                hdma_usart6_rx
  .bss.hdma_usart6_tx
-                0x0000000020000600       0x60 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
-                0x0000000020000600                hdma_usart6_tx
- .bss.huart6    0x0000000020000660       0x44 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
-                0x0000000020000660                huart6
+                0x000000002000062c       0x60 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
+                0x000000002000062c                hdma_usart6_tx
+ .bss.huart6    0x000000002000068c       0x44 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
+                0x000000002000068c                huart6
  .bss.__lock___atexit_recursive_mutex
-                0x00000000200006a4        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
-                0x00000000200006a4                __lock___atexit_recursive_mutex
+                0x00000000200006d0        0x1 /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-lock.o)
+                0x00000000200006d0                __lock___atexit_recursive_mutex
  *(COMMON)
-                0x00000000200006a8                . = ALIGN (0x4)
- *fill*         0x00000000200006a5        0x3 
-                0x00000000200006a8                _ebss = .
-                0x00000000200006a8                __bss_end__ = _ebss
+                0x00000000200006d4                . = ALIGN (0x4)
+ *fill*         0x00000000200006d1        0x3 
+                0x00000000200006d4                _ebss = .
+                0x00000000200006d4                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x00000000200006a8      0x600
-                0x00000000200006a8                . = ALIGN (0x8)
-                0x00000000200006a8                PROVIDE (end = .)
+                0x00000000200006d4      0x604
+                0x00000000200006d8                . = ALIGN (0x8)
+ *fill*         0x00000000200006d4        0x4 
+                0x00000000200006d8                PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
-                0x00000000200008a8                . = (. + _Min_Heap_Size)
- *fill*         0x00000000200006a8      0x200 
-                0x0000000020000ca8                . = (. + _Min_Stack_Size)
- *fill*         0x00000000200008a8      0x400 
-                0x0000000020000ca8                . = ALIGN (0x8)
+                0x00000000200008d8                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200006d8      0x200 
+                0x0000000020000cd8                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200008d8      0x400 
+                0x0000000020000cd8                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -1520,7 +1498,7 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
  .debug_ranges  0x0000000000000718       0x20 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
  .debug_ranges  0x0000000000000738       0x20 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
 
-.debug_line     0x0000000000000000     0x9b65
+.debug_line     0x0000000000000000     0x9b6e
  .debug_line    0x0000000000000000      0x673 CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_line    0x0000000000000673      0x84e CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_line    0x0000000000000ec1      0xecb CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
@@ -1528,17 +1506,17 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
  .debug_line    0x0000000000002525      0x588 CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_line    0x0000000000002aad      0xbb2 CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
  .debug_line    0x000000000000365f     0x46ae CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
- .debug_line    0x0000000000007d0d      0x84d CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
- .debug_line    0x000000000000855a      0x223 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
- .debug_line    0x000000000000877d      0x254 CMakeFiles/A1_Drive_A.elf.dir/Src/gpio.c.obj
- .debug_line    0x00000000000089d1      0x4aa CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
- .debug_line    0x0000000000008e7b      0x1c5 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x0000000000009040      0x36f CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
- .debug_line    0x00000000000093af      0x28e CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
- .debug_line    0x000000000000963d      0x477 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
- .debug_line    0x0000000000009ab4       0xb1 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
+ .debug_line    0x0000000000007d0d      0x856 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+ .debug_line    0x0000000000008563      0x223 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
+ .debug_line    0x0000000000008786      0x254 CMakeFiles/A1_Drive_A.elf.dir/Src/gpio.c.obj
+ .debug_line    0x00000000000089da      0x4aa CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
+ .debug_line    0x0000000000008e84      0x1c5 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x0000000000009049      0x36f CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_line    0x00000000000093b8      0x28e CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_line    0x0000000000009646      0x477 CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
+ .debug_line    0x0000000000009abd       0xb1 CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
 
-.debug_str      0x0000000000000000     0x2bea
+.debug_str      0x0000000000000000     0x2bd0
  .debug_str     0x0000000000000000      0xbee CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
                                         0xc47 (size before relaxing)
  .debug_str     0x0000000000000bee      0x4ec CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
@@ -1553,23 +1531,23 @@ LOAD /opt/homebrew/Cellar/arm-none-eabi-gcc/10.3-2021.07/gcc/bin/../lib/gcc/arm-
                                         0x76b (size before relaxing)
  .debug_str     0x0000000000001d26      0x833 CMakeFiles/A1_Drive_A.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
                                         0xdab (size before relaxing)
- .debug_str     0x0000000000002559      0x2f7 CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
-                                        0x911 (size before relaxing)
- .debug_str     0x0000000000002850       0x49 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
+ .debug_str     0x0000000000002559      0x2dd CMakeFiles/A1_Drive_A.elf.dir/Lib/Src/A1_Drive.c.obj
+                                        0x8f7 (size before relaxing)
+ .debug_str     0x0000000000002836       0x49 CMakeFiles/A1_Drive_A.elf.dir/Src/dma.c.obj
                                         0x870 (size before relaxing)
- .debug_str     0x0000000000002899       0x4b CMakeFiles/A1_Drive_A.elf.dir/Src/gpio.c.obj
+ .debug_str     0x000000000000287f       0x4b CMakeFiles/A1_Drive_A.elf.dir/Src/gpio.c.obj
                                         0x3cc (size before relaxing)
- .debug_str     0x00000000000028e4       0x97 CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
+ .debug_str     0x00000000000028ca       0x97 CMakeFiles/A1_Drive_A.elf.dir/Src/main.c.obj
                                         0x5d3 (size before relaxing)
- .debug_str     0x000000000000297b       0x4b CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_str     0x0000000000002961       0x4b CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_hal_msp.c.obj
                                         0x31b (size before relaxing)
- .debug_str     0x00000000000029c6      0x106 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_str     0x00000000000029ac      0x106 CMakeFiles/A1_Drive_A.elf.dir/Src/stm32f4xx_it.c.obj
                                         0x53d (size before relaxing)
- .debug_str     0x0000000000002acc       0x75 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_str     0x0000000000002ab2       0x75 CMakeFiles/A1_Drive_A.elf.dir/Src/system_stm32f4xx.c.obj
                                         0x381 (size before relaxing)
- .debug_str     0x0000000000002b41       0x4a CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
+ .debug_str     0x0000000000002b27       0x4a CMakeFiles/A1_Drive_A.elf.dir/Src/usart.c.obj
                                         0xe0d (size before relaxing)
- .debug_str     0x0000000000002b8b       0x5f CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
+ .debug_str     0x0000000000002b71       0x5f CMakeFiles/A1_Drive_A.elf.dir/startup/startup_stm32f427xx.s.obj
                                          0xa4 (size before relaxing)
 
 .comment        0x0000000000000000       0x49

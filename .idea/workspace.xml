@@ -15,7 +15,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0078ce89-af09-45b3-a003-2b95597ffc3a" name="变更" comment="" />
+    <list default="true" id="0078ce89-af09-45b3-a003-2b95597ffc3a" name="变更" comment="Bug fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1_Drive_A.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/A1_Drive_A.ioc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/Inc/A1_Drive.h" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/Inc/A1_Drive.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/Src/A1_Drive.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/Src/A1_Drive.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/usart.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/usart.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-06-07T10-03-14-0178.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/A1_Drive_A.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/A1_Drive_A.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/A1_Drive_A.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/A1_Drive_A.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/A1_Drive_A.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/A1_Drive_A.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +41,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,6 +53,7 @@
     <option name="minorVersion" value="1" />
   </component>
   <component name="ProjectId" id="290l5ITAaJagyltzm32Rzx6BBN2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,11 +107,42 @@
       <workItem from="1652257707615" duration="7550000" />
       <workItem from="1654420285137" duration="2303000" />
       <workItem from="1654438966088" duration="9164000" />
-      <workItem from="1654498271253" duration="21536000" />
+      <workItem from="1654498271253" duration="23191000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1654596447212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654596447212</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bug fixed">
+      <created>1654596575021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654596575021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Bug fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fixed" />
   </component>
 </project>

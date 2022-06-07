@@ -29,7 +29,7 @@ typedef struct{
 		uint16_t T;
 		uint16_t W;
 		uint16_t Acc;
-		float Pos;
+		uint32_t Pos;
 }Rx_Data;
 
 typedef struct{
